@@ -1,0 +1,39 @@
+html {
+    text-align: center;  
+    font-family: Garamond !important;
+}
+
+body {
+    background: url("./Background.png") center #cfd8dc fixed;     
+}
+
+h1 {
+    color: #212121;    
+    margin: 0;
+}
+
+header>h1+p {
+    margin: 0;
+    font-style: italic;
+}
+
+li, p, a {
+    color: #757575;    
+}
+
+li {
+    text-align: left;
+}
+
+.container {
+    position: absolute; 
+    top: 50%;
+    transform: translateY(-50%);
+    width: 99%;    
+    background: rgba(255, 255, 255, 0.25);
+}
+
+article {        
+    width: 25%;    
+    margin: auto;
+}
