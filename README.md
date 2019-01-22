@@ -6,7 +6,7 @@ A simple placeholder site for Wordsmiths.app
 
 # Demo
 
-![A screenshot](./Capture.png)
+![A screenshot](./Capture.PNG)
 
 # To run
 
